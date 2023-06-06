@@ -1,0 +1,55 @@
+.resistation-title{
+    color: #144E49;
+    margin-top: 50px;
+    text-align: center;
+}
+.sign-in{
+    display:flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 23px;
+    border: 2px solid #144E49;
+    padding: 10px;
+    border-radius: 9px;
+    column-gap: 20px;
+  
+ 
+   
+}
+.sign-in i {
+    color: #144E49;
+}
+.sso{
+   display: flex;
+   gap: 20px; 
+   justify-content: center;
+}
+.divider{
+    text-align: center;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #144E49; 
+}
+.before,.after{
+    height: 2px;
+    width: 45%;
+    background-color:#144E49;
+    display: inline-block;
+}
+.before{
+  margin-right: 10px;  
+}
+.after{
+    margin-left: 10px;
+}
+form{
+    width: 60%;
+    margin: 0 auto;
+}
+.form{
+  display: flex;  
+  flex-direction: column;
+
+}

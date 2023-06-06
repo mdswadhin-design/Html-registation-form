@@ -1,0 +1,23 @@
+main{
+display: flex;
+background-color: #144E49;
+
+}
+.left{
+    width: 40%;
+   
+    color: white;
+    padding: 30px;
+}
+.right{
+    width: 60%;
+    background-color:white;
+    padding: 20px;
+    border-radius: 70px 0 0 70px;
+}
+.sketch{ 
+   margin-left: 190px; 
+   z-index: 5;
+   position: relative;
+   
+}
